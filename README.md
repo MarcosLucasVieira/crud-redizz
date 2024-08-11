@@ -3,7 +3,7 @@ onstrua uma aplicação web usando react, onde será necesário criar um CRUD de
 ## Índice
 
 1. [Pré-requisitos](#pré-requisitos)
-2. [Estrutura de código](#estrutura)
+2. [Estrutura de código](#estrutura-de-código)
 3. [Funcionalidade](#funcionalidade)
 4. [Licença](#licença)
 5. [Contato](#contato)
