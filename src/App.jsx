@@ -1,8 +1,8 @@
 import React from 'react';
 import { Container, Tabs, Tab, Box } from '@mui/material';
 import Products from './components/Products.jsx';
-import Clients from './components/Clients';
-import Orders from './components/Orders';
+import Clients from './components/Clients.jsx';
+import Orders from './components/Orders.jsx';
 import { green } from '@mui/material/colors';
 
 function App() {
