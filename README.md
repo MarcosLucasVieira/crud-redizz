@@ -1,5 +1,5 @@
 # Projeto Crud Redizz
-onstrua uma aplicação web usando react, onde será necesário criar um CRUD de produtos, clientes e pedidos. Estruture os dados da maneira que desejar.
+Construa uma aplicação web usando react, onde será necesário criar um CRUD de produtos, clientes e pedidos. Estruture os dados da maneira que desejar.
 ## Índice
 
 1. [Pré-requisitos](#pré-requisitos)
